@@ -3,7 +3,17 @@ entries:
   test_chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T11:17:00.219036+03:00"
+    created: "2021-05-14T11:57:13.046144+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4d41b074639d0ccf39e7cc060f3cb32b981b1f4949b66272f0610241145ce334
+    name: test_chart
+    type: application
+    urls:
+    - https://vlasovvo.github.io/test_chart_repo/test_chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-14T11:57:13.045165+03:00"
     description: A Helm chart for Kubernetes
     digest: 2ab8b4137844bb8f2d3354a2b0595fe5728584c0f0bd971e79ec4727d7aa2f2a
     name: test_chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://vlasovvo.github.io/test_chart_repo/test_chart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-14T11:17:00.216878+03:00"
+generated: "2021-05-14T11:57:13.044057+03:00"
